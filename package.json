@@ -1,0 +1,27 @@
+{
+  "name": "p",
+  "version": "0.1.0",
+  "description": "study promise/a+ spec and make a light javascript promise library",
+  "main": "P.js",
+  "scripts": {
+    "test": "istanbul cover _mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Joe3Ray/P.git"
+  },
+  "keywords": [
+    "promise"
+  ],
+  "author": "JoeRay61",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Joe3Ray/P/issues"
+  },
+  "homepage": "https://github.com/Joe3Ray/P#readme",
+  "dependencies": {},
+  "devDependencies": {
+    "istanbul": "^0.4.3",
+    "mocha": "^2.5.3"
+  }
+}
