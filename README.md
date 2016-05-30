@@ -1,5 +1,5 @@
 # P
-A Javascript Promise Library
+Javascript Promise Library
 
 [![Build Status][travis-image]][travis-url] [![Dependency status][david-dm-image]][david-dm-url] [![Dev Dependency status][david-dm-dev-image]][david-dm-dev-url]
 
